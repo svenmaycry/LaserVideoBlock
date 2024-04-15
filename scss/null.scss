@@ -51,7 +51,7 @@ main {
 input,
 button,
 textarea {
-  font-family: "Ubuntu", serif;
+  font-family: $fontFamily;
   font-size: inherit;
 }
 
