@@ -44,11 +44,10 @@
     border-radius: 15px;
     max-width: 300px;
     padding: 15px;
-
+    transition: box-shadow 0.3s ease 0s;
 
     @media (any-hover: hover) {
       &:hover {
-        transition: box-shadow 0.3s ease 0s;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.6)
       }
     }
