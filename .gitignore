@@ -1,5 +1,7 @@
 .idea
 .vercel
+node_modules/
+package-lock.json
 scss/style.css
 scss/style.css.map
 scss/null.css
